@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the tf frontpage features feature.
+ */
+
+include_once('tf_frontpage_features.features.inc');

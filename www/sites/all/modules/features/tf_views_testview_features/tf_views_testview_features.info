@@ -1,0 +1,8 @@
+core = "7.x"
+dependencies[] = "features"
+dependencies[] = "views"
+description = "decription of features views"
+features[ctools][] = "views:views_default:3.0"
+features[views_view][] = "testview"
+name = "tf views testview features"
+package = "Features"

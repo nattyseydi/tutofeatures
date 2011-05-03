@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the tf views testview features feature.
+ */
+
+include_once('tf_views_testview_features.features.inc');
